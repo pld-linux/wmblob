@@ -2,7 +2,7 @@ Summary:	wmblob is a useless program which shows moving blobs
 Summary(pl):	wmblob jest bezu¿ytecznym programem, który pokazuje ruchome kleksy
 Name:		wmblob
 Version:	1.0.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		X11/Window Managers/Tools
 Source0:	http://dockapps.org/files/155/440/%{name}-%{version}.tar.bz2
@@ -44,6 +44,7 @@ rm -rf $RPM_BUILD_ROOT
 
 %files
 %defattr(644,root,root,755)
+%doc README ChangeLog AUTHORS
 %attr(755,root,root) %{_bindir}/%{name}
 %{_mandir}/man1/*
 %{_desktopdir}/docklets/wmblob.desktop
