@@ -9,6 +9,8 @@ Source0:	http://dockapps.org/files/155/440/%{name}-%{version}.tar.bz2
 # Source0-md5:	b72497b8e61e1b0e5cfabd050d62fb11
 Source1:	%{name}.desktop
 URL:		http://dockapps.org/file.php/id/155
+BuildRequires:	autoconf
+BuildRequires:	automake
 BuildRequires:	gtk+2-devel
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
