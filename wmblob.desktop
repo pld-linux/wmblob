@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=wmblob
+Comment=Moving blobs
+Comment[pl]=Ruchome kleksy
+Exec=wmblob
+Terminal=false
+Type=Application
+Categories=GTK;Applet;
+NotShowIn=GNOME;KDE;
+Encoding=UTF-8
+# vi: encoding=utf-8
