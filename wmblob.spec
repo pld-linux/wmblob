@@ -12,6 +12,7 @@ URL:		http://dockapps.org/file.php/id/155
 BuildRequires:	autoconf
 BuildRequires:	automake
 BuildRequires:	gtk+2-devel
+BuildRequires:	pkgconfig
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
