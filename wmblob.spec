@@ -1,5 +1,5 @@
 Summary:	wmblob is a useless program which shows moving blobs
-Summary(pl.UTF-8):   wmblob jest bezużytecznym programem, który pokazuje ruchome kleksy
+Summary(pl.UTF-8):	wmblob jest bezużytecznym programem, który pokazuje ruchome kleksy
 Name:		wmblob
 Version:	1.0.1
 Release:	3
