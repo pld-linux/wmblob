@@ -1,5 +1,5 @@
 Summary:	wmblob is a useless program which shows moving blobs
-Summary(pl):	wmblob jest bezuøytecznym programem, ktÛry pokazuje ruchome kleksy
+Summary(pl.UTF-8):   wmblob jest bezu≈ºytecznym programem, kt√≥ry pokazuje ruchome kleksy
 Name:		wmblob
 Version:	1.0.1
 Release:	3
@@ -19,9 +19,9 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 wmblob is a useless program which shows moving blobs. It is a nice
 dockapp for Window Maker and it may run with other window mangers.
 
-%description -l pl
-wmblob jest bezuøytecznym programem, ktÛry pokazuje ruchome kleksy.
-Bardzo mi≥a dokowalna aplikacja dla Window Makera i nie tylko.
+%description -l pl.UTF-8
+wmblob jest bezu≈ºytecznym programem, kt√≥ry pokazuje ruchome kleksy.
+Bardzo mi≈Ça dokowalna aplikacja dla Window Makera i nie tylko.
 
 %prep
 %setup -q
